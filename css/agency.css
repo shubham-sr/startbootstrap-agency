@@ -83,7 +83,7 @@ section {
     border-color: #32cd32;
     background-color: #32cd32; }
   .btn-primary .badge {
-    color: #fed136;
+    color: #32cd32;
     background-color: white; }
 
 .btn-xl {
@@ -91,11 +91,11 @@ section {
   padding: 20px 40px; }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #32cd32;
   text-shadow: none; }
 
 ::selection {
-  background: #fed136;
+  background: #32cd32;
   text-shadow: none; }
 
 img::selection {
@@ -105,7 +105,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #32cd32; }
 
 #mainNav {
   background-color: #212529; }
@@ -546,4 +546,4 @@ ul.social-buttons {
     outline: none;
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+      background-color: #32cd32; }
