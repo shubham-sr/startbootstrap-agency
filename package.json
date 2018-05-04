@@ -1,25 +1,22 @@
 {
-  "title": "Agency",
-  "name": "startbootstrap-agency",
+  "title": "HitsBig",
+  "name": "HitsBig Network",
   "version": "4.0.0-beta.2",
-  "description": "Agency is a one page HTML theme for Bootstrap.",
+  "description": "HitsBig Network is a Multi Level Marketing Company based in India.",
   "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
+    "HITSBIG",
+    "hitsbig",
+    "hitsbig network",
+    "hits",
+    "hitbig",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/agency",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-    "email": "feedback@startbootstrap.com"
+  "homepage": "https://hitsbig.com",
+
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
+  "author": "HitsBig",
+
   ],
   "repository": {
     "type": "git",
